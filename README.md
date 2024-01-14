@@ -7,7 +7,7 @@
 # Tab-A6_project
 
 > [!IMPORTANT]
-> If you want to contribute to this project you can fork this repository and then open a pull request. I would be very grateful.
+> If you would like to contribute to this project you can fork this repository and then open a pull request. Note that I am new to github, so please do not modify things without letting me know first. I would be very grateful for your help.
 
 > [!CAUTION]
 > This project is still in alpha state so a lot of things are still not translated in English. 
