@@ -5,3 +5,14 @@
 </picture>
 
 # Tab-A6_project
+
+- [ ] Logo iniziale
+- [ ] Sistemare il link di attribuzione per il logo
+- [ ] Introduzione
+- [ ] Preparazione dell'ambiente di sviluppo android (riferimenti alle pagine ufficiali)
+- [ ] Preparazione dell'ambiente di sviluppo linux
+
+> [!WARNING]
+> Il progetto è ancora in fase di sviluppo quindi molte informazioni potrebbero essere incomplete o inaccurate.
+
+<a href="https://www.flaticon.com/free-icons/touch-screen" title="Icon">Icon created by Freepik - Flaticon</a>
