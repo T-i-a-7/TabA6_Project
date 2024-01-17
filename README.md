@@ -4,7 +4,7 @@
  <img alt="Logo of the project with a simple tablet icon and the project name" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-# Samsung Galaxy Tab A6 project
+# Samsung Tab A6 project
 
 > [!IMPORTANT]
 > If you would like to contribute to this project you can fork this repository and then open a pull request. Note that I am new to github, so please do not modify things without letting me know first. I would be very grateful for your help.
