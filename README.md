@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Logo of the project with a simple tablet icon and the project name" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="/assets/images/tablet.png">
+ <source media="(prefers-color-scheme: light)" srcset="/assets/images/tablet.png">
+ <img alt="Logo of the project with a simple tablet icon and the project name" src="/assets/images/tablet.png">
 </picture>
 
 # Samsung Tab A6 project
