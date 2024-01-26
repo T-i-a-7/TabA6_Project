@@ -1,8 +1,4 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="/assets/images/tablet.png">
- <source media="(prefers-color-scheme: light)" srcset="/assets/images/tablet.png">
- <img alt="Logo of the project with a simple tablet icon and the project name" src="/assets/images/tablet.png">
-</picture>
+<img alt="project logo" src="tablet.png" height="250px" align="left" ="500px"/>
 
 # Samsung Tab A6 project
 
