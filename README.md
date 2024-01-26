@@ -1,4 +1,12 @@
-<img alt="project logo" src="tablet.png" height="250px" align="left" ="500px"/>
+<
+
+<div>
+  <img alt="project logo" src="tablet.png" height="250" align="left"/>
+</div>
+
+<H1>
+  Samsung Tab
+</H1>
 
 # Samsung Tab A6 project
 
