@@ -18,7 +18,7 @@ Welcome to the Samsung Tab A6 Modding Project! This comprehensive guide provides
 > [!IMPORTANT]
 > If you would like to contribute to this project you can fork this repository and then open a pull request. Note that I am new to github, so please do not modify things without letting me know first. I would be very grateful for your help.
 
-<!-- Camiare sezione 1 e 2 con le informazioni reali -->
+<!-- Cambiare sezione 1 e 2 con le informazioni reali -->
 
 ## Sezione 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt quis eros a facilisis. Ut vel lacinia sem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ut orci vitae quam gravida laoreet eu vel massa. Vivamus pharetra lacus ac erat tristique placerat. Nulla tincidunt felis ipsum, quis convallis ipsum mattis at. Nam aliquet odio orci, nec luctus lorem egestas in. Curabitur diam nunc, imperdiet sed quam sit amet, egestas posuere ipsum. Ut dapibus neque vitae tincidunt ultricies. Integer vitae nunc eget urna malesuada efficitur in ut enim. In hac habitasse platea dictumst. Aenean mollis leo quis tellus commodo, tempus scelerisque ipsum mattis.
@@ -38,6 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt quis eros
 - [ ] Lineage OS
 
 </br>
+
+---
 
 Logo attribution  
 The icon was created by <a href="https://www.flaticon.com/" title="Icon">Freepik - Flaticon</a>
