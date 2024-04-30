@@ -30,8 +30,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt quis eros
 
 ### To-Do list
 - [x] Logo iniziale
-- [ ] Sistemare il link di attribuzione per il logo
-- [ ] Introduzione
+- [x] Sistemare il link di attribuzione per il logo
+- [x] Introduzione
 - [ ] Preparazione dell'ambiente di sviluppo android (riferimenti alle pagine ufficiali)
 - [ ] Preparazione dell'ambiente di sviluppo linux
 - [ ] TWRP
