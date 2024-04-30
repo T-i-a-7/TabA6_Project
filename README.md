@@ -1,7 +1,7 @@
 <div align=center>
   <img alt="project logo" src="Tablet_logo.png" height="90"/>
   <h1>
-    Samsung Tab A6 modding
+    Samsung Tab A6 Modding
   </h1>
 </div>
 
